@@ -44,16 +44,16 @@ Methods & Workflow
   •	Removed commas and “USD” from the Income column
   •	Converted income values to numeric
   •	Selected relevant features: Income, SpendingScore, Gender, Age
-  •	Applied z score normalization to numeric features
+  •	Applied z score normalization to numeric features.
 
 2. Elbow Method
   •	Computed Within Cluster Sum of Squares (WSS) for k = 1–10
-  •	Identified k = 5 as the optimal number of clusters
+  •	Identified k = 5 as the optimal number of clusters.
 
 3. K Means Clustering
   •	Fit K Means with n_clusters = 5
   •	Visualized clusters using scaled income and spending score
-  •	Extracted cluster centers for interpretation
+  •	Extracted cluster centers for interpretation.
 
 4. Demographic Interpretation
 Using gender distribution and average age per cluster, each group was assigned a descriptive name such as:
@@ -61,7 +61,7 @@ Using gender distribution and average age per cluster, each group was assigned a
   •	Premium Loyalists
   •	Value Seeking Enthusiasts
   •	High Income Minimalists
-  •	Budget Shoppers
+  •	Budget Shoppers.
 
 Skills Demonstrated
 
