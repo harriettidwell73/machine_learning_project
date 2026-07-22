@@ -3,7 +3,7 @@ Mall Customer Segmentation (Unsupervised Learning Project)
 Project Overview
 
 This project applies unsupervised machine learning to segment mall customers based on their demographic and behavioral patterns. Using the classic Mall Customers dataset, the goal was to identify meaningful customer groups that could support marketing strategy, targeted promotions, and business insights.
-The workflow includes data cleaning, preprocessing, normalization, clustering, and demographic interpretation. The final output is a set of five customer segments derived using K Means clustering, supported by visualizations and cluster level summaries.
+The workflow includes data cleaning, preprocessing, normalization, clustering, and demographic interpretation. The final output is a set of five customer segments derived using K Means clustering, supported by visualizations and cluster level summaries (Géron, A. (2023).
 
 Tools & Technologies Used
 
@@ -78,3 +78,13 @@ Skills Demonstrated
   •	Visualization of machine learning results
 
   •	Clear documentation and reproducible workflow
+
+
+ 
+ 
+
+ 
+ References
+
+Géron, A. (2023). Hands On Machine Learning with Scikit Learn, Keras, and TensorFlow (3rd ed.). O’Reilly Media.
+
